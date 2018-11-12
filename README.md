@@ -2,6 +2,12 @@
 
 First Real Fair Game On EOS (第一款成功使用链上随机数的公平游戏)
 
+全部记录都在链上: https://www.myeoskit.com/account/letseosloger?sub=contract_interfaces
+play: 您玩的记录.
+result: 开奖记录.
+
+如果有任何问题, 欢迎加入我们的电报群: http://t.me/letseosgame
+
 ## 公平:
 
 letseos完全采用区块链上的随机数.在您向合约转账完成的同时, 您的开奖结果就已经确定了.
