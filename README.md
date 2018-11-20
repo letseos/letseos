@@ -112,4 +112,4 @@ Bancor初始化的时候, 我们用 6000EOS 锚定了 3000万LET币, 每一个�
 1. Bancor交易
 2. 玩游戏1倍返利
 
-
+[LET币随着Bancor中EOS数量增加的变化](https://github.com/letseos/letseos/blob/master/LET_Bancor.png)
